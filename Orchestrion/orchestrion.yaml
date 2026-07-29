@@ -1,13 +1,11 @@
 name: Orchestrion Plugin
 author: perchbird (originally Meli)
 description: |-
-  Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes
-  a curated list of the most accurate in-game song titles, so you know exactly what's playing,
-  if you want to know later! Add favorite songs to separate them from the rest.
-  Note: This plugin does not currently allow you to play actual orchestrion songs.
-punchline: Adds a simple front-end for browsing and changing the in-game BGM. 
-repo_url: https://github.com/perchbirdd/OrchestrionPlugin
+  可瀏覽及變更目前播放中的遊戲背景音樂，並提供整理過的曲目名稱、播放清單、
+  播放紀錄與替換功能。注意：本插件不是用來播放管弦樂琴樂譜。
+punchline: 瀏覽、辨識及變更遊戲內背景音樂。
+repo_url: https://github.com/cycleapple/OrchestrionPlugin
 tags:
   - bgm
   - music
-changelog: Update for 6.2.
+changelog: 台服 Dalamud API13 版本。
